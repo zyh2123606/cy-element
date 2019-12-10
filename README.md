@@ -35,4 +35,4 @@ visible  | false   | boolean | true or false | 打开、关闭
 data     | empty   | array | array | 图片数组
 
 #### example
-  [图片预览示例](https://github.com/zyh2123606/cy-element/picturePreview.html)
+  [图片预览示例](https://github.com/zyh2123606/cy-element/dist/picturePreview.html)
